@@ -13,7 +13,7 @@ def authenticated_menu():
             
     if 'patient_info' in st.session_state:
         st.sidebar.write(st.session_state.patient_info)
-    st.sidebar.write(st.session_state)
+    #st.sidebar.write(st.session_state)
 
 def unauthenticated_menu():
     # Show a navigation menu for unauthenticated users
