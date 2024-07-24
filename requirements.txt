@@ -1,0 +1,7 @@
+langchain_openai
+langchain_core
+langchain
+langsmith 
+langchain_community
+cohere
+faiss-cpu
